@@ -1,4 +1,4 @@
-# uni-projects
+# c++ projects
 Ceaser-Cipher Encryption Algorithm.
 Develop an encryption/decryption application that is easy to use and provides strong
 security features.
